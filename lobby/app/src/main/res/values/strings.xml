@@ -1,3 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">lobby</string>
+    <string name="app_name2">GUESS NUMBER</string>
+    <string name="app_name3">PAPER SCISSORS STONE</string>
+    <string name="reset">RESET</string>
+    <string name="correct">CORRECT</string>
+    <string name="guess">GUESS</string>
+    <string name="please_enter_a_number">PLEASE ENTER A NUMBER</string>
+    <string name="too_big_range">TOO BIG, RANGE: %1$d-%2$d</string>
+    <string name="too_small_range">TOO SMALL, RANGE: %1$d-%2$d</string>
+    <string name="let_us_guess_again">LET US GUESS AGAIN!</string>
+    <string name="reset_game_mention">GAME WILL RESET IN 6 SECONDS!</string>
+    <string name="win">WIN!</string>
+    <string name="draw">DRAW!</string>
+    <string name="lose">LOSE!</string>
+    <string name="start">LET\'S START!</string>
 </resources>
