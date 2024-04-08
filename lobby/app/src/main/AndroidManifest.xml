@@ -28,5 +28,9 @@
         <!-- 猜拳遊戲 Activity -->
         <activity android:name=".RockPaperScissorsActivity"/>
 
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
     </application>
 </manifest>
